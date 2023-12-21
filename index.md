@@ -9,8 +9,16 @@
 * `train.py`: This .py file builds and trains a custom YOLOv8 model on the TACO dataset when executed in the CLI. 
 
 ## `/runs`
-* `/train`
-  * hajdhb
+* `/detect`
+  * `/train`
+     * `results.csv`
+     * train_batch0.jpg
+     * train_batch0.jpg
+     * train_batch0.jpg
+     * `weights`
+       * best.pt
+       * last.pt
+         
 
 ## `/models`
 * `yolov8n.pt`:
