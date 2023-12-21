@@ -11,15 +11,13 @@
 ### `/runs`
 * `/detect`
   * `/train`
-     * results.csv
-     * train_batch0.jpg
-     * train_batch0.jpg
-     * train_batch0.jpg
+     * results.csv: This .csv shows the evaluation metrics of custom YOLOv8 model.
+     * train_batch*.jpg: These .jpg(s) are visualizations of the trained images. 
      * `/weights`
-       * best.pt
+       * best.pt: 
        * last.pt
          
 ### `/models`
-* yolov8n.yaml
+* yolov8*.yaml: These .yaml files are used for building and training a custom YOLOv8 model. 
 * yolov8s.yaml
 * yolov8x.yaml
