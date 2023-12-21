@@ -8,8 +8,6 @@
 
 * `train.py`: This .py file builds and trains a custom YOLOv8 model on the TACO dataset when executed in the CLI. 
 
-* Source Code: `trash-detection-maskrcnn.ipynb`:
-
 ## `/data`
 
 ## `/runs`
