@@ -19,8 +19,7 @@
        * best.pt
        * last.pt
          
-
 ### `/models`
-* `yolov8n.pt`:
-* `yolov8s.pt`:
-* `yolov8x.pt`:
+* `yolov8n.yaml`
+* `yolov8s.yaml`
+* `yolov8x.yaml`
