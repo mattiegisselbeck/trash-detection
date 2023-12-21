@@ -20,6 +20,6 @@
        * last.pt
          
 ### `/models`
-* `yolov8n.yaml`
-* `yolov8s.yaml`
-* `yolov8x.yaml`
+* yolov8n.yaml
+* yolov8s.yaml
+* yolov8x.yaml
