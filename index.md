@@ -9,6 +9,7 @@
 * `train.py`: This .py file builds and trains a custom YOLOv8 model on the TACO dataset when executed in the CLI. 
 
 ## `/data`
+* `data.md`: This markdown file is a step-by-step instruction on how to download the TACO dataset.
 
 ## `/runs`
 * `/train`
