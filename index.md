@@ -11,11 +11,11 @@
 ## `/runs`
 * `/detect`
   * `/train`
-     * `results.csv`
+     * results.csv
      * train_batch0.jpg
      * train_batch0.jpg
      * train_batch0.jpg
-     * `weights`
+     * `/weights`
        * best.pt
        * last.pt
          
